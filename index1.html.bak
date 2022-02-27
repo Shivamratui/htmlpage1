@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>hello</title>
+<link rel="stylesheet" type="text/css" href="style1.css"/>
+	
+	<style>
+		
+
+	</style>
+</head>
+<body>
+<div class="main">
+	<div class="container">
+		<div class="header">
+			<div class="banner">
+			<h1><span> TOUR </span>:Top 5 Bars and Clubs in Chnadigarh<</h1>
+			<!-- <img src="images/header.jpg" class="back"> -->
+			
+			</div>
+			<div class="profile">
+				<div class="pro">
+				<img src="images/vrk.png" >
+				<h1>CLUBS' SURVEY</h1>
+				<span>This survey was made on the fact that a great number of teenagers are usually excited to party in clubs and have fun with their friends. So this survey makes it easier to choose from the selected clubs in Chandigarh.
+				      So enjoy your experience here and we hope that this web page would be useful for you.</span>
+				</div>
+				<div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="content">
+			<div class="block">
+				<div class="number"> <span>1 </span></div>
+				<div class="info">
+				<h1>Voize Lounge and Bar</h1>
+				<h3>SECTOR - 26 , Chandigarh</h3>
+				<p> Stylish, modern hangout offering cocktails, Indian fare & bar snacks, DJ music & a dance floor.
+                    </p>
+					<p>SERVICE OPTIONS: Dine-in · Takeaway · Delivery /p>
+					<p>ADDRESS: SCO 22 Backside, Madhya Marg, Sector 26, Chandigarh, 160019</p>
+				<span class="subHead">Sample Photo :</span>
+				<div class="info-img">
+				<img src="C:\Users\HP\OneDrive\Desktop\main\images\voize.jpg" >
+				</div>
+				</div>
+			</div>
+			
+			
+			
+			
+			<div class="block">
+				<div class="number">2</div>
+				<div class="info">
+				<h1>The Black</h1>
+				<h3>SECTOR - 26 , Chandigarh</h3>
+				<p> Stylish, Indian fare & bar snacks, DJ music & a dance floor.
+                    </p>
+					<p>SERVICE OPTIONS: Dine-in · Takeaway · Delivery /p>
+					<p>ADDRESS: SCO 22 Backside, Madhya Marg, Sector 26, Chandigarh, 160019</p>
+				<span class="subHead">Sample Photo :</span>
+				<div class="info-img">
+				<img src="C:\Users\HP\OneDrive\Desktop\main\images\theblack.jpg" >
+				</div>
+				</div>
+			</div>
+			
+			
+			
+			<div class="block">
+				<div class="number">3</div>
+				<div class="info">
+				<h1>ASOD - A State Of Dance </h1>
+				<h3>Sector-8 Chandigarh</h3>
+				<p> Stylish, modern hangout offering cocktails, DJ music & a dance floor.
+                    </p>
+					<p>SERVICE OPTIONS: Dine-in · Takeaway · Delivery /p>
+					<p>ADDRESS: SCO 22 Backside, Madhya Marg, Sector 26, Chandigarh, 160019</p>
+				<span class="subHead">Sample Photo :</span>
+				<div class="info-img">
+				<img src="C:\Users\HP\OneDrive\Desktop\main\images\ASOD.jpg" >
+				</div>
+				</div>
+			</div>
+			
+			
+			
+			
+			
+			
+			<div class="block">
+				<div class="number">4</div>
+				<div class="info">
+				<h1>Beach and Brew</h1>
+				<h3>Hdfjkhxkdfhgudkhgkjdh</h3>
+				<p> Stylish, modern hangout offering cocktails, Indian fare & bar snacks.
+                    </p>
+					<p>SERVICE OPTIONS: Dine-in · Takeaway · Delivery /p>
+					<p>ADDRESS: SCO 22 Backside, Madhya Marg, Sector 26, Chandigarh, 160019</p>
+				<span class="subHead">Sample Photo :</span>
+				<div class="info-img">
+				<img src="C:\Users\HP\OneDrive\Desktop\main\images\BANDB.jpg" >
+				</div>
+				</div>
+			</div>
+			
+			
+		</div>
+		
+	</div>
+	
+
+</div>
+
+</body>
+</html>
